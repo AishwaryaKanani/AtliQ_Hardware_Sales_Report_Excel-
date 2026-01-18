@@ -1,9 +1,9 @@
 # Sales Report & Finance Report for AtliQ Hardware
 # Sales Report :
 - **Project objective:**
-1. Create a [_customer performance report_](customer-performance-report.pdf).
+1. Create a [_customer performance report_](https://github.com/AishwaryaKanani/AtliQ_Hardware_Sales_Report_Excel-/blob/main/Customer%20Performance%20Report.pdf).
 
-2. Conduct a comprehensive comparison between [_market performance vs sales targets_](market-vs-sales-targets.pdf).
+2. Conduct a comprehensive comparison between [_market performance vs sales targets_](https://github.com/AishwaryaKanani/AtliQ_Hardware_Sales_Report_Excel-/blob/main/Market%20performance%20vs%20target.pdf).
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -14,9 +14,9 @@
 # Finance Report :
 - **Project objective:**
 
-1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](Fiscal-Year.pdf) & [_Months_](Months.pdf).
+1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/AishwaryaKanani/AtliQ_Hardware_Sales_Report_Excel-/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [_Months_](https://github.com/AishwaryaKanani/AtliQ_Hardware_Sales_Report_Excel-/blob/main/p%20%26%20L%20Statement%20by%20Months.pdf)).
 
-2. Create Profit and Loss (P&L) reports by [_Markets_](Markets.pdf).
+2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/AishwaryaKanani/AtliQ_Hardware_Sales_Report_Excel-/blob/main/P%26L%20Statement%20by%20Markets.pdf).
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
